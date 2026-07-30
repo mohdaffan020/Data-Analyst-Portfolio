@@ -16,16 +16,14 @@ This repository showcases my projects and documents my learning journey in Data 
 
 - [About](#about)
 
-- ### Projects
+- [Portfolio Projects](#portfolio-projects)
   - Excel
     - [Decathlon Sales & Customer Analytics](https://github.com/mohdaffan020/Decathlon-Sales-and-Customer-Analytics-Excel.git)
 
   - Power BI
     - [E-Commerce Cart Abandonment Analysis](https://github.com/mohdaffan020/E-Commerece_Cart_Abandonment_Analysis_PowerBI.git)
-
   - SQL
     - [Netflix Content Analysis](https://github.com/mohdaffan020/netflix-sql-project.git)
-
   - Python
     - [Customer Churn Analysis](https://github.com/mohdaffan020/python-customer-churn-project.git)
 
@@ -155,8 +153,8 @@ Responsibilities included:
 
 ## Contact
 
-**LinkedIn:** YOUR_LINKEDIN_URL
+**LinkedIn:** www.linkedin.com/in/mohdaffan020
 
-**GitHub:** YOUR_GITHUB_URL
+**GitHub:**  https://github.com/mohdaffan020
 
-**Email:** YOUR_EMAIL
+**Email:** mohdaffan020@gmail.com
