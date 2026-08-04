@@ -6,7 +6,7 @@ Hi, I'm Mohd Affan! I am currently pursuing a Master of Computer Applications (M
 
 I enjoy working with SQL, Python, Excel, and Power BI to transform raw data into meaningful insights. My projects focus on real-world business scenarios such as retail sales analysis, e-commerce analytics, customer behavior, and entertainment data.
 
-My Resume: [PDF](YOUR_RESUME_LINK)
+My Resume: [PDF](Resume.pdf)
 
 This repository showcases my projects and documents my learning journey in Data Analytics and Business Intelligence.
 
