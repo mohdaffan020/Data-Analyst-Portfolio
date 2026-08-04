@@ -99,9 +99,9 @@ In this section I have listed the projects I have completed while learning Data 
 
 **Description:** This project includes data preprocessing, exploratory data analysis, feature engineering, model building, and evaluation using machine learning algorithms.
 
-**Skills:** Data Cleaning, EDA, Feature Engineering, Machine Learning, Data Visualization
+**Skills:** Data Cleaning, EDA, Data Visualization
 
-**Technology:** Python, Pandas, Scikit-learn, Matplotlib
+**Technology:** Python, Pandas, Matplotlib
 
 **Results:** The models identify customers at risk of churning and highlight the most important factors influencing customer retention.
 
